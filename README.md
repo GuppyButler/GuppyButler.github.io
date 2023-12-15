@@ -1,3 +1,3 @@
 # GuppyButler.github.io
-My recipe webpage
-It is currently based only around html
+My portfolio webpage
+It is currently based on html, CSS, and bootstrap
