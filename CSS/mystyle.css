@@ -15,14 +15,9 @@ body{
     max-width: 775px;
     min-width: auto;
     background-color: #F4FF52;
-    height: 60px;
+    height: fit-content;
     overflow: hidden;
-    transition: all;
-    transition-duration: 1.5s;
     margin-bottom: 30px;
-}
-.pizzelle_history:hover{
-    height: 475px;
 }
 .pizzelle_history_list{
     display: inline-block
@@ -58,5 +53,8 @@ body{
     margin-bottom: 20px;
 }
 #pizzelle_video{
-width: 100%;
+    width: 100%;
+}
+#pizzelle_history_video{
+    width: 75%;
 }
