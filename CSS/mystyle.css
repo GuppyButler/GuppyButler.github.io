@@ -1,22 +1,23 @@
 body{
-    background-color: bisque;
     font-family: Raleway;
 }
 .finished_pizzelle_example{
     float: right;
-    border: 5px solid #D1603D;
+    border: 5px solid white;
     margin-top: 5px;
     width: 25%;
-    height: auto;
+    max-width: 300px;
+    height:auto;
+    max-height: 300px;
 }
 .pizzelle_history{
-    border: 10px solid #E5B25D;
+    border: 10px solid white;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     max-width: 775px;
     min-width: auto;
-    background-color: #F4FF52;
+    background-color: black;
     height: fit-content;
     overflow: hidden;
     margin-bottom: 30px;
@@ -31,8 +32,8 @@ body{
     text-align: center;
 }
 #making_the_pizzelle{
-    background-color: #FFDDA1;
-    border: 10px solid orange;
+    background-color: black;
+    border: 10px solid white;
     position: relative;
     max-width: 782px;
     min-width: auto;
